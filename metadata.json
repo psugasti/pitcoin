@@ -1,0 +1,23 @@
+{
+    "name": "Pit Coin",
+    "symbol": "PIT",
+    "description": "Pit Coin. There is only one king.",
+    "image": "https://raw.githubusercontent.com/psugasti/pitcoin/refs/heads/main/pitcoin.png",
+    "external_url": "https://github.com/psugasti/pitcoin",
+    "attributes": [
+      {
+        "trait_type": "Utility",
+        "value": "Yes"
+      }
+    ],
+    "properties": {
+      "category": "token",
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/psugasti/pitcoin/refs/heads/main/pitcoin.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
